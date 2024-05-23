@@ -1,13 +1,11 @@
-# Pixel Sorting Application
+# PixlR
 
 ## Overview
-A desktop application for pixel sorting images using Python and `customtkinter`.
+A simple python application for sorting pixels in images
+
+This shit barely works. If it was a horse, I'd shoot it
 
 ## Features
-- Drag and drop an image to load.
-- Adjust pixel sorting settings using sliders.
-- Export the processed image as a PNG file.
-
-## Setup
-1. Clone the repository.
-2. Install the required dependencies:
+- Adjust strength of pixel sorting through a slider
+- Supports sorting by luminosity, hue and saturation
+- Export the processed image as a PNG file
